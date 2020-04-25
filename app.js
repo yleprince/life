@@ -6,6 +6,8 @@ const world = {
     men: 70.4
 }
 
+let life;
+
 const past = document.getElementById('past');
 const futur = document.getElementById('futur');
 
@@ -21,9 +23,42 @@ country.appendChild(init);
 const label_age = document.getElementById('label_age');
 const age = document.getElementById('age');
 
-age.addEventListener('change', function () {
+age.addEventListener('input', function () {
     label_age.innerHTML = `${this.value} years old`;
+    life();
 })
 
-past.style.flex = .8;
-futur.style.flex = .2;
+fetch("https://raw.githubusercontent.com/yleprince/life/master/expectancy.json")
+    .then(res => res.json())
+    .then(expectancies => {
+        expectancies.sort((a, b) => a.name.localeCompare(b.name))
+            .map(({ name }) => {
+                const new_country = document.createElement('option');
+                new_country.innerHTML = name;
+                new_country.value = name.toLowerCase();
+                country.appendChild(new_country)
+            });
+        console.log(expectancies);
+        life = () => {
+            console.log('age', age.value);
+            let percentage;
+            if (country.value != 'world') {
+                const selected = expectancies.find(e => e.name.toLowerCase() === country.value);
+                percentage = age.value / selected[gender.value];
+            } else {
+                percentage = age.value / world[gender.value];
+            }
+            percentage = Math.min(1, percentage);
+
+            console.log('per', percentage);
+            if (percentage >= 1) {
+                past.style.backgroundColor = '#d2ffad';
+            } else {
+                past.style.backgroundColor = '#fff';
+            }
+            past.style.flex = percentage;
+            futur.style.flex = 1 - percentage;
+        }
+        document.addEventListener('click', life);
+        life();
+    })
