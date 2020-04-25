@@ -1,0 +1,1290 @@
+[
+    {
+        "rank": 1,
+        "name": "Hong Kong",
+        "avg": 84.7,
+        "women": 87.6,
+        "men": 81.8
+    },
+    {
+        "rank": 2,
+        "name": "Japan",
+        "avg": 84.5,
+        "women": 87.5,
+        "men": 81.3
+    },
+    {
+        "rank": 3,
+        "name": "Switzerland",
+        "avg": 83.6,
+        "women": 85.5,
+        "men": 81.7
+    },
+    {
+        "rank": 4,
+        "name": "Singapore",
+        "avg": 83.7,
+        "women": 85.7,
+        "men": 81.4
+    },
+    {
+        "rank": 5,
+        "name": "Italy",
+        "avg": 83.4,
+        "women": 85.4,
+        "men": 81.1
+    },
+    {
+        "rank": 6,
+        "name": "Spain",
+        "avg": 83.4,
+        "women": 86.1,
+        "men": 80.7
+    },
+    {
+        "rank": 7,
+        "name": "Australia",
+        "avg": 83.3,
+        "women": 85.3,
+        "men": 81.3
+    },
+    {
+        "rank": 8,
+        "name": "Iceland",
+        "avg": 82.9,
+        "women": 84.4,
+        "men": 81.3
+    },
+    {
+        "rank": 9,
+        "name": "Israel",
+        "avg": 82.8,
+        "women": 84.4,
+        "men": 81.1
+    },
+    {
+        "rank": 9,
+        "name": "South Korea",
+        "avg": 82.8,
+        "women": 85.8,
+        "men": 79.7
+    },
+    {
+        "rank": 11,
+        "name": "Sweden",
+        "avg": 82.7,
+        "women": 84.4,
+        "men": 80.9
+    },
+    {
+        "rank": 12,
+        "name": "France",
+        "avg": 82.5,
+        "women": 85.4,
+        "men": 79.6
+    },
+    {
+        "rank": 13,
+        "name": "Malta",
+        "avg": 82.4,
+        "women": 84.1,
+        "men": 80.5
+    },
+    {
+        "rank": 14,
+        "name": "Canada",
+        "avg": 82.3,
+        "women": 84.3,
+        "men": 80.3
+    },
+    {
+        "rank": 14,
+        "name": "Norway",
+        "avg": 82.3,
+        "women": 84.3,
+        "men": 80.3
+    },
+    {
+        "rank": 15,
+        "name": "Luxembourg",
+        "avg": 82.1,
+        "women": 84.2,
+        "men": 80.0
+    },
+    {
+        "rank": 15,
+        "name": "Ireland",
+        "avg": 82.1,
+        "women": 83.7,
+        "men": 80.4
+    },
+    {
+        "rank": 15,
+        "name": "New Zealand",
+        "avg": 82.1,
+        "women": 83.9,
+        "men": 80.4
+    },
+    {
+        "rank": 15,
+        "name": "Netherlands",
+        "avg": 82.1,
+        "women": 83.8,
+        "men": 80.4
+    },
+    {
+        "rank": 15,
+        "name": "Greece",
+        "avg": 82.1,
+        "women": 84.5,
+        "men": 79.6
+    },
+    {
+        "rank": 20,
+        "name": "Portugal",
+        "avg": 81.9,
+        "women": 84.7,
+        "men": 78.8
+    },
+    {
+        "rank": 21,
+        "name": "Andorra",
+        "avg": 81.8,
+        "women": 81.8,
+        "men": 81.8
+    },
+    {
+        "rank": 22,
+        "name": "Finland",
+        "avg": 81.7,
+        "women": 84.6,
+        "men": 78.9
+    },
+    {
+        "rank": 23,
+        "name": "Belgium",
+        "avg": 81.5,
+        "women": 83.8,
+        "men": 79.1
+    },
+    {
+        "rank": 24,
+        "name": "Austria",
+        "avg": 81.4,
+        "women": 83.8,
+        "men": 79.0
+    },
+    {
+        "rank": 25,
+        "name": "Germany",
+        "avg": 81.2,
+        "women": 83.6,
+        "men": 78.8
+    },
+    {
+        "rank": 25,
+        "name": "United Kingdom",
+        "avg": 81.2,
+        "women": 83.0,
+        "men": 79.5
+    },
+    {
+        "rank": 25,
+        "name": "Slovenia",
+        "avg": 81.2,
+        "women": 83.9,
+        "men": 78.4
+    },
+    {
+        "rank": 28,
+        "name": "Cyprus",
+        "avg": 80.8,
+        "women": 82.9,
+        "men": 78.7
+    },
+    {
+        "rank": 28,
+        "name": "Denmark",
+        "avg": 80.8,
+        "women": 82.8,
+        "men": 77.8
+    },
+    {
+        "rank": 30,
+        "name": "Liechtenstein",
+        "avg": 80.5,
+        "women": 80.5,
+        "men": 80.5
+    },
+    {
+        "rank": 31,
+        "name": "Costa Rica",
+        "avg": 80.1,
+        "women": 82.7,
+        "men": 77.5
+    },
+    {
+        "rank": 32,
+        "name": "Chile",
+        "avg": 80.0,
+        "women": 82.4,
+        "men": 77.6
+    },
+    {
+        "rank": 33,
+        "name": "Czech Republic",
+        "avg": 79.2,
+        "women": 81.8,
+        "men": 76.6
+    },
+    {
+        "rank": 34,
+        "name": "Barbados",
+        "avg": 79.1,
+        "women": 80.4,
+        "men": 77.7
+    },
+    {
+        "rank": 35,
+        "name": "Lebanon",
+        "avg": 78.9,
+        "women": 80.8,
+        "men": 77.1
+    },
+    {
+        "rank": 35,
+        "name": "United States",
+        "avg": 78.9,
+        "women": 81.4,
+        "men": 76.3
+    },
+    {
+        "rank": 37,
+        "name": "Cuba",
+        "avg": 78.6,
+        "women": 80.6,
+        "men": 76.7
+    },
+    {
+        "rank": 38,
+        "name": "Poland",
+        "avg": 78.5,
+        "women": 82.4,
+        "men": 74.6
+    },
+    {
+        "rank": 39,
+        "name": "Panama",
+        "avg": 78.3,
+        "women": 81.6,
+        "men": 75.2
+    },
+    {
+        "rank": 39,
+        "name": "Croatia",
+        "avg": 78.3,
+        "women": 81.5,
+        "men": 75.1
+    },
+    {
+        "rank": 41,
+        "name": "United Arab Emirates",
+        "avg": 77.8,
+        "women": 79.2,
+        "men": 77.1
+    },
+    {
+        "rank": 41,
+        "name": "Uruguay",
+        "avg": 77.8,
+        "women": 81.4,
+        "men": 74.0
+    },
+    {
+        "rank": 43,
+        "name": "Oman",
+        "avg": 77.6,
+        "women": 80.1,
+        "men": 75.9
+    },
+    {
+        "rank": 44,
+        "name": "Slovakia",
+        "avg": 77.4,
+        "women": 80.8,
+        "men": 73.8
+    },
+    {
+        "rank": 45,
+        "name": "Turkey",
+        "avg": 77.4,
+        "women": 80.3,
+        "men": 74.4
+    },
+    {
+        "rank": 46,
+        "name": "Bosnia and Herzegovina",
+        "avg": 77.3,
+        "women": 79.7,
+        "men": 74.8
+    },
+    {
+        "rank": 47,
+        "name": "Bahrain",
+        "avg": 77.2,
+        "women": 78.3,
+        "men": 76.3
+    },
+    {
+        "rank": 48,
+        "name": "Colombia",
+        "avg": 77.1,
+        "women": 79.9,
+        "men": 74.3
+    },
+    {
+        "rank": 49,
+        "name": "Antigua and Barbuda",
+        "avg": 76.9,
+        "women": 78.0,
+        "men": 75.7
+    },
+    {
+        "rank": 49,
+        "name": "Thailand",
+        "avg": 76.9,
+        "women": 80.7,
+        "men": 73.2
+    },
+    {
+        "rank": 51,
+        "name": "Ecuador",
+        "avg": 76.8,
+        "women": 79.6,
+        "men": 74.1
+    },
+    {
+        "rank": 51,
+        "name": "Montenegro",
+        "avg": 76.8,
+        "women": 79.2,
+        "men": 74.3
+    },
+    {
+        "rank": 51,
+        "name": "Sri Lanka",
+        "avg": 76.8,
+        "women": 80.1,
+        "men": 73.4
+    },
+    {
+        "rank": 54,
+        "name": "Algeria",
+        "avg": 76.7,
+        "women": 77.9,
+        "men": 75.5
+    },
+    {
+        "rank": 54,
+        "name": "People's Republic of China",
+        "avg": 76.7,
+        "women": 79.1,
+        "men": 74.5
+    },
+    {
+        "rank": 54,
+        "name": "Hungary",
+        "avg": 76.7,
+        "women": 80.1,
+        "men": 73.1
+    },
+    {
+        "rank": 57,
+        "name": "Argentina",
+        "avg": 76.5,
+        "women": 79.9,
+        "men": 73.1
+    },
+    {
+        "rank": 57,
+        "name": "Iran",
+        "avg": 76.5,
+        "women": 77.7,
+        "men": 75.4
+    },
+    {
+        "rank": 57,
+        "name": "Morocco",
+        "avg": 76.5,
+        "women": 77.7,
+        "men": 75.2
+    },
+    {
+        "rank": 57,
+        "name": "Peru",
+        "avg": 76.5,
+        "women": 79.3,
+        "men": 73.8
+    },
+    {
+        "rank": 57,
+        "name": "Tunisia",
+        "avg": 76.5,
+        "women": 78.5,
+        "men": 74.5
+    },
+    {
+        "rank": 62,
+        "name": "Saint Lucia",
+        "avg": 76.1,
+        "women": 77.4,
+        "men": 74.7
+    },
+    {
+        "rank": 63,
+        "name": "Malaysia",
+        "avg": 76.0,
+        "women": 78.2,
+        "men": 74.1
+    },
+    {
+        "rank": 64,
+        "name": "Romania",
+        "avg": 75.9,
+        "women": 79.4,
+        "men": 72.5
+    },
+    {
+        "rank": 65,
+        "name": "Serbia",
+        "avg": 75.8,
+        "women": 78.5,
+        "men": 73.3
+    },
+    {
+        "rank": 66,
+        "name": "Brazil",
+        "avg": 75.7,
+        "women": 79.4,
+        "men": 72.0
+    },
+    {
+        "rank": 66,
+        "name": "Brunei",
+        "avg": 75.7,
+        "women": 77.0,
+        "men": 74.6
+    },
+    {
+        "rank": 66,
+        "name": "Lithuania",
+        "avg": 75.7,
+        "women": 81.2,
+        "men": 70.1
+    },
+    {
+        "rank": 66,
+        "name": "North Macedonia",
+        "avg": 75.7,
+        "women": 77.7,
+        "men": 73.7
+    },
+    {
+        "rank": 71,
+        "name": "Kuwait",
+        "avg": 75.4,
+        "women": 76.5,
+        "men": 74.7
+    },
+    {
+        "rank": 72,
+        "name": "Vietnam",
+        "avg": 75.3,
+        "women": 79.4,
+        "men": 71.2
+    },
+    {
+        "rank": 73,
+        "name": "Latvia",
+        "avg": 75.2,
+        "women": 79.9,
+        "men": 70.1
+    },
+    {
+        "rank": 74,
+        "name": "Honduras",
+        "avg": 75.1,
+        "women": 77.4,
+        "men": 72.8
+    },
+    {
+        "rank": 75,
+        "name": "Mexico",
+        "avg": 75.0,
+        "women": 77.8,
+        "men": 72.1
+    },
+    {
+        "rank": 75,
+        "name": "Saudi Arabia",
+        "avg": 75.0,
+        "women": 76.6,
+        "men": 73.8
+    },
+    {
+        "rank": 77,
+        "name": "Armenia",
+        "avg": 74.9,
+        "women": 78.4,
+        "men": 71.2
+    },
+    {
+        "rank": 77,
+        "name": "Bulgaria",
+        "avg": 74.9,
+        "women": 78.5,
+        "men": 71.4
+    },
+    {
+        "rank": 77,
+        "name": "Mauritius",
+        "avg": 74.9,
+        "women": 78.4,
+        "men": 71.5
+    },
+    {
+        "rank": 80,
+        "name": "Belarus",
+        "avg": 74.6,
+        "women": 79.4,
+        "men": 69.4
+    },
+    {
+        "rank": 80,
+        "name": "Saint Kitts and Nevis",
+        "avg": 74.6,
+        "women": 74.6,
+        "men": 74.6
+    },
+    {
+        "rank": 82,
+        "name": "Belize",
+        "avg": 74.5,
+        "women": 77.7,
+        "men": 71.6
+    },
+    {
+        "rank": 83,
+        "name": "Jamaica",
+        "avg": 74.4,
+        "women": 76.0,
+        "men": 72.8
+    },
+    {
+        "rank": 83,
+        "name": "Jordan",
+        "avg": 74.4,
+        "women": 76.2,
+        "men": 72.7
+    },
+    {
+        "rank": 85,
+        "name": "Nicaragua",
+        "avg": 74.3,
+        "women": 77.8,
+        "men": 70.7
+    },
+    {
+        "rank": 86,
+        "name": "Guatemala",
+        "avg": 74.1,
+        "women": 76.9,
+        "men": 71.1
+    },
+    {
+        "rank": 86,
+        "name": "Paraguay",
+        "avg": 74.1,
+        "women": 76.3,
+        "men": 72.2
+    },
+    {
+        "rank": 88,
+        "name": "Dominican Republic",
+        "avg": 73.9,
+        "women": 77.2,
+        "men": 70.8
+    },
+    {
+        "rank": 88,
+        "name": "Marshall Islands",
+        "avg": 73.9,
+        "women": 73.9,
+        "men": 73.9
+    },
+    {
+        "rank": 88,
+        "name": "Palestine",
+        "avg": 73.9,
+        "women": 75.6,
+        "men": 72.3
+    },
+    {
+        "rank": 91,
+        "name": "Bahamas",
+        "avg": 73.8,
+        "women": 75.9,
+        "men": 71.5
+    },
+    {
+        "rank": 92,
+        "name": "Palau",
+        "avg": 73.7,
+        "women": 73.7,
+        "men": 73.7
+    },
+    {
+        "rank": 93,
+        "name": "Georgia",
+        "avg": 73.6,
+        "women": 78.0,
+        "men": 69.2
+    },
+    {
+        "rank": 94,
+        "name": "Trinidad and Tobago",
+        "avg": 73.4,
+        "women": 76.1,
+        "men": 70.8
+    },
+    {
+        "rank": 95,
+        "name": "Seychelles",
+        "avg": 73.3,
+        "women": 77.3,
+        "men": 69.8
+    },
+    {
+        "rank": 96,
+        "name": "Kazakhstan",
+        "avg": 73.2,
+        "women": 77.3,
+        "men": 68.8
+    },
+    {
+        "rank": 96,
+        "name": "Samoa",
+        "avg": 73.2,
+        "women": 75.3,
+        "men": 71.2
+    },
+    {
+        "rank": 98,
+        "name": "El Salvador",
+        "avg": 73.1,
+        "women": 77.6,
+        "men": 68.2
+    },
+    {
+        "rank": 99,
+        "name": "Azerbaijan",
+        "avg": 72.9,
+        "women": 75.3,
+        "men": 70.3
+    },
+    {
+        "rank": 100,
+        "name": "Cabo Verde",
+        "avg": 72.8,
+        "women": 76.0,
+        "men": 69.3
+    },
+    {
+        "rank": 100,
+        "name": "Solomon Islands",
+        "avg": 72.8,
+        "women": 74.7,
+        "men": 71.2
+    },
+    {
+        "rank": 102,
+        "name": "Libya",
+        "avg": 72.7,
+        "women": 75.8,
+        "men": 69.9
+    },
+    {
+        "rank": 103,
+        "name": "Grenada",
+        "avg": 72.4,
+        "women": 74.9,
+        "men": 70.1
+    },
+    {
+        "rank": 103,
+        "name": "Russia",
+        "avg": 72.4,
+        "women": 77.6,
+        "men": 66.9
+    },
+    {
+        "rank": 103,
+        "name": "St Vincent and the Grenadines",
+        "avg": 72.4,
+        "women": 75.0,
+        "men": 70.2
+    },
+    {
+        "rank": 106,
+        "name": "Bangladesh",
+        "avg": 72.3,
+        "women": 74.3,
+        "men": 70.6
+    },
+    {
+        "rank": 107,
+        "name": "Venezuela",
+        "avg": 72.1,
+        "women": 76.1,
+        "men": 68.4
+    },
+    {
+        "rank": 108,
+        "name": "Ukraine",
+        "avg": 72.0,
+        "women": 76.7,
+        "men": 67.0
+    },
+    {
+        "rank": 109,
+        "name": "Egypt",
+        "avg": 71.8,
+        "women": 74.2,
+        "men": 69.6
+    },
+    {
+        "rank": 109,
+        "name": "Moldova",
+        "avg": 71.8,
+        "women": 76.1,
+        "men": 67.5
+    },
+    {
+        "rank": 109,
+        "name": "Syria",
+        "avg": 71.8,
+        "women": 77.8,
+        "men": 66.6
+    },
+    {
+        "rank": 112,
+        "name": "Suriname",
+        "avg": 71.6,
+        "women": 74.9,
+        "men": 68.4
+    },
+    {
+        "rank": 112,
+        "name": "Uzbekistan",
+        "avg": 71.6,
+        "women": 73.7,
+        "men": 69.4
+    },
+    {
+        "rank": 114,
+        "name": "Bhutan",
+        "avg": 71.5,
+        "women": 71.8,
+        "men": 71.1
+    },
+    {
+        "rank": 114,
+        "name": "Indonesia",
+        "avg": 71.5,
+        "women": 73.7,
+        "men": 69.4
+    },
+    {
+        "rank": 116,
+        "name": "Kyrgyzstan",
+        "avg": 71.3,
+        "women": 75.5,
+        "men": 67.3
+    },
+    {
+        "rank": 117,
+        "name": "Bolivia",
+        "avg": 71.2,
+        "women": 74.2,
+        "men": 68.4
+    },
+    {
+        "rank": 118,
+        "name": "Philippines",
+        "avg": 71.1,
+        "women": 75.4,
+        "men": 67.1
+    },
+    {
+        "rank": 119,
+        "name": "Tajikistan",
+        "avg": 70.9,
+        "women": 73.2,
+        "men": 68.7
+    },
+    {
+        "rank": 120,
+        "name": "Tonga",
+        "avg": 70.8,
+        "women": 72.8,
+        "men": 68.9
+    },
+    {
+        "rank": 121,
+        "name": "Iraq",
+        "avg": 70.5,
+        "women": 72.5,
+        "men": 68.4
+    },
+    {
+        "rank": 121,
+        "name": "Nepal",
+        "avg": 70.5,
+        "women": 71.9,
+        "men": 69.0
+    },
+    {
+        "rank": 123,
+        "name": "Vanuatu",
+        "avg": 70.3,
+        "women": 72.0,
+        "men": 68.8
+    },
+    {
+        "rank": 124,
+        "name": "Sao Tome and Principe",
+        "avg": 70.2,
+        "women": 72.6,
+        "men": 67.8
+    },
+    {
+        "rank": 125,
+        "name": "Guyana",
+        "avg": 69.8,
+        "women": 73.0,
+        "men": 66.8
+    },
+    {
+        "rank": 126,
+        "name": "Mongolia",
+        "avg": 69.7,
+        "women": 74.0,
+        "men": 65.6
+    },
+    {
+        "rank": 127,
+        "name": "Cambodia",
+        "avg": 69.6,
+        "women": 71.6,
+        "men": 67.3
+    },
+    {
+        "rank": 128,
+        "name": "India",
+        "avg": 69.4,
+        "women": 70.7,
+        "men": 68.2
+    },
+    {
+        "rank": 129,
+        "name": "Botswana",
+        "avg": 69.3,
+        "women": 72.0,
+        "men": 66.2
+    },
+    {
+        "rank": 129,
+        "name": "Timor Leste",
+        "avg": 69.3,
+        "women": 71.4,
+        "men": 67.3
+    },
+    {
+        "rank": 131,
+        "name": "Rwanda",
+        "avg": 68.7,
+        "women": 70.8,
+        "men": 66.5
+    },
+    {
+        "rank": 132,
+        "name": "Kiribati",
+        "avg": 68.1,
+        "women": 72.1,
+        "men": 64.0
+    },
+    {
+        "rank": 132,
+        "name": "Turkmenistan",
+        "avg": 68.1,
+        "women": 71.6,
+        "men": 64.6
+    },
+    {
+        "rank": 134,
+        "name": "Federated States of Micronesia",
+        "avg": 67.8,
+        "women": 69.5,
+        "men": 66.1
+    },
+    {
+        "rank": 135,
+        "name": "Senegal",
+        "avg": 67.7,
+        "women": 69.6,
+        "men": 65.5
+    },
+    {
+        "rank": 136,
+        "name": "Laos",
+        "avg": 67.6,
+        "women": 69.4,
+        "men": 65.8
+    },
+    {
+        "rank": 137,
+        "name": "Fiji",
+        "avg": 67.3,
+        "women": 69.2,
+        "men": 65.6
+    },
+    {
+        "rank": 138,
+        "name": "Pakistan",
+        "avg": 67.1,
+        "women": 68.1,
+        "men": 66.2
+    },
+    {
+        "rank": 139,
+        "name": "Myanmar",
+        "avg": 66.9,
+        "women": 69.9,
+        "men": 63.8
+    },
+    {
+        "rank": 140,
+        "name": "Madagascar",
+        "avg": 66.7,
+        "women": 68.3,
+        "men": 65.1
+    },
+    {
+        "rank": 141,
+        "name": "Djibouti",
+        "avg": 66.6,
+        "women": 68.8,
+        "men": 64.6
+    },
+    {
+        "rank": 142,
+        "name": "Ethiopia",
+        "avg": 66.2,
+        "women": 68.2,
+        "men": 64.4
+    },
+    {
+        "rank": 142,
+        "name": "Gabon",
+        "avg": 66.2,
+        "women": 68.9,
+        "men": 64.2
+    },
+    {
+        "rank": 144,
+        "name": "Yemen",
+        "avg": 66.1,
+        "women": 67.8,
+        "men": 64.4
+    },
+    {
+        "rank": 145,
+        "name": "Eritrea",
+        "avg": 65.9,
+        "women": 68.2,
+        "men": 63.8
+    },
+    {
+        "rank": 146,
+        "name": "Sudan",
+        "avg": 65.1,
+        "women": 66.9,
+        "men": 63.3
+    },
+    {
+        "rank": 147,
+        "name": "Tanzania",
+        "avg": 65.0,
+        "women": 66.8,
+        "men": 63.2
+    },
+    {
+        "rank": 148,
+        "name": "Mauritania",
+        "avg": 64.7,
+        "women": 66.3,
+        "men": 63.1
+    },
+    {
+        "rank": 149,
+        "name": "Afghanistan",
+        "avg": 64.5,
+        "women": 66.0,
+        "men": 63.0
+    },
+    {
+        "rank": 150,
+        "name": "Republic of Congo",
+        "avg": 64.3,
+        "women": 65.7,
+        "men": 62.8
+    },
+    {
+        "rank": 150,
+        "name": "Papua New Guinea",
+        "avg": 64.3,
+        "women": 65.6,
+        "men": 63.0
+    },
+    {
+        "rank": 152,
+        "name": "Comoros",
+        "avg": 64.1,
+        "women": 65.9,
+        "men": 62.4
+    },
+    {
+        "rank": 153,
+        "name": "South Africa",
+        "avg": 63.9,
+        "women": 67.4,
+        "men": 60.5
+    },
+    {
+        "rank": 154,
+        "name": "Ghana",
+        "avg": 63.8,
+        "women": 64.9,
+        "men": 62.7
+    },
+    {
+        "rank": 154,
+        "name": "Malawi",
+        "avg": 63.8,
+        "women": 66.9,
+        "men": 60.7
+    },
+    {
+        "rank": 156,
+        "name": "Haiti",
+        "avg": 63.7,
+        "women": 65.8,
+        "men": 61.5
+    },
+    {
+        "rank": 156,
+        "name": "Liberia",
+        "avg": 63.7,
+        "women": 65.1,
+        "men": 62.3
+    },
+    {
+        "rank": 158,
+        "name": "Zambia",
+        "avg": 63.5,
+        "women": 66.4,
+        "men": 60.5
+    },
+    {
+        "rank": 159,
+        "name": "Namibia",
+        "avg": 63.4,
+        "women": 66.2,
+        "men": 60.4
+    },
+    {
+        "rank": 160,
+        "name": "Kenya",
+        "avg": 63.3,
+        "women": 68.7,
+        "men": 64.0
+    },
+    {
+        "rank": 161,
+        "name": "Uganda",
+        "avg": 63.0,
+        "women": 65.2,
+        "men": 60.7
+    },
+    {
+        "rank": 162,
+        "name": "Niger",
+        "avg": 62.0,
+        "women": 63.2,
+        "men": 60.9
+    },
+    {
+        "rank": 163,
+        "name": "Gambia",
+        "avg": 61.7,
+        "women": 63.2,
+        "men": 60.4
+    },
+    {
+        "rank": 164,
+        "name": "Benin",
+        "avg": 61.5,
+        "women": 63.0,
+        "men": 59.9
+    },
+    {
+        "rank": 165,
+        "name": "Burkina Faso",
+        "avg": 61.2,
+        "women": 61.9,
+        "men": 60.4
+    },
+    {
+        "rank": 165,
+        "name": "Burundi",
+        "avg": 61.2,
+        "women": 63.0,
+        "men": 59.4
+    },
+    {
+        "rank": 165,
+        "name": "Guinea",
+        "avg": 61.2,
+        "women": 61.7,
+        "men": 60.5
+    },
+    {
+        "rank": 165,
+        "name": "Zimbabwe",
+        "avg": 61.2,
+        "women": 62.6,
+        "men": 59.5
+    },
+    {
+        "rank": 169,
+        "name": "Angola",
+        "avg": 60.8,
+        "women": 63.7,
+        "men": 58.1
+    },
+    {
+        "rank": 169,
+        "name": "Togo",
+        "avg": 60.8,
+        "women": 61.6,
+        "men": 59.9
+    },
+    {
+        "rank": 171,
+        "name": "Democratic Republic of the Congo",
+        "avg": 60.4,
+        "women": 61.9,
+        "men": 58.9
+    },
+    {
+        "rank": 172,
+        "name": "Mozambique",
+        "avg": 60.2,
+        "women": 63.0,
+        "men": 57.1
+    },
+    {
+        "rank": 173,
+        "name": "Eswatini",
+        "avg": 59.4,
+        "women": 64.0,
+        "men": 55.3
+    },
+    {
+        "rank": 174,
+        "name": "Mali",
+        "avg": 58.9,
+        "women": 59.6,
+        "men": 58.1
+    },
+    {
+        "rank": 174,
+        "name": "Cameroon",
+        "avg": 58.9,
+        "women": 60.2,
+        "men": 57.7
+    },
+    {
+        "rank": 176,
+        "name": "Equatorial Guinea",
+        "avg": 58.4,
+        "women": 59.6,
+        "men": 57.4
+    },
+    {
+        "rank": 177,
+        "name": "Guinea-bissau",
+        "avg": 58.0,
+        "women": 59.9,
+        "men": 56.0
+    },
+    {
+        "rank": 178,
+        "name": "South Sudan",
+        "avg": 57.6,
+        "women": 59.1,
+        "men": 56.1
+    },
+    {
+        "rank": 179,
+        "name": "Côte d'Ivoire",
+        "avg": 57.4,
+        "women": 58.7,
+        "men": 56.3
+    },
+    {
+        "rank": 180,
+        "name": "Nigeria",
+        "avg": 54.3,
+        "women": 55.2,
+        "men": 53.5
+    },
+    {
+        "rank": 180,
+        "name": "Sierra Leone",
+        "avg": 54.3,
+        "women": 55.1,
+        "men": 53.5
+    },
+    {
+        "rank": 182,
+        "name": "Chad",
+        "avg": 54.0,
+        "women": 55.4,
+        "men": 52.6
+    },
+    {
+        "rank": 183,
+        "name": "Lesotho",
+        "avg": 53.7,
+        "women": 57.0,
+        "men": 50.6
+    },
+    {
+        "rank": 184,
+        "name": "Central African Republic",
+        "avg": 52.8,
+        "women": 55.0,
+        "men": 50.6
+    }
+]
