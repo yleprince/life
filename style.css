@@ -89,6 +89,7 @@ select {
     cursor: pointer;
     padding: .2rem;
     font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
     font-size: 1.1rem;
     color: #363636;
     background-color: rgba(0, 0, 0, 0);
