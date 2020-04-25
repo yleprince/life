@@ -6,7 +6,7 @@ const world = {
     men: 70.4
 }
 
-let life;
+let life = () => { };
 
 const past = document.getElementById('past');
 const futur = document.getElementById('futur');
@@ -38,9 +38,7 @@ fetch("https://raw.githubusercontent.com/yleprince/life/master/expectancy.json")
                 new_country.value = name.toLowerCase();
                 country.appendChild(new_country)
             });
-        console.log(expectancies);
         life = () => {
-            console.log('age', age.value);
             let percentage;
             if (country.value != 'world') {
                 const selected = expectancies.find(e => e.name.toLowerCase() === country.value);
@@ -61,4 +59,7 @@ fetch("https://raw.githubusercontent.com/yleprince/life/master/expectancy.json")
         }
         document.addEventListener('click', life);
         life();
-    })
+    });
+window.setInterval(() => {
+    life();
+}, 1000);
