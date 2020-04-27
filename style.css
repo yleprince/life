@@ -100,8 +100,8 @@ select {
 }
 
 #sources {
-    position: absolute;
-    top: 90%;
+    font-size: .8rem;
+    margin-top: 4rem;
 }
 
 a {
