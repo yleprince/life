@@ -48,7 +48,6 @@ fetch("https://raw.githubusercontent.com/yleprince/life/master/expectancy.json")
             }
             percentage = Math.min(1, percentage);
 
-            console.log('per', percentage);
             if (percentage >= 1) {
                 past.style.backgroundColor = '#d2ffad';
             } else {
